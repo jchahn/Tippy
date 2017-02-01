@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-It took a while to learn how to position items using auto layout and constraints, but I'm starting to get the hang of it. I also made the mistake of manually renaming my project and files, and that resulted in me being unable to build my code for a while.
+It took a while to learn how to position items using auto layout and constraints, but I'm starting to get the hang of it. So far it only works using iPhone SE dimensions. I also made the mistake of manually renaming my project and files, and that resulted in me being unable to build my code for a while.
 
 ## License
 
